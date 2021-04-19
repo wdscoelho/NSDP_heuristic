@@ -18,7 +18,7 @@ Graphs v0.10.3
 
 IJulia v1.20.0
 
-JuMP v0.18.6
+JuMP v0.21
 
 LightGraphs v1.3.0
 
