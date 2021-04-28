@@ -1,6 +1,6 @@
 In this work, we address the Network Slice Design problem. This is a problem arising from the optimization of end-to-end communication networks using fifth-generation (5G) radio access technology showing peculiar requirements with respect to conventional function placement and routing problems, in terms of sharing policies and radio-access integration. To address the underlying optimization problem, we propose an open-access framework based on a math-heuristic that encompasses control-plane and data-plane separation and novel mapping and decomposition dimensions influencing the placement and interconnection of slices. Our framework also incorporates flexible functional splitting, with possibly different splitting for different slices while taking into consideration dependency factors such as varying network latency and data volume throughout the virtual access networks. Numerical results are then presented to assess the efficiency of our approach. 
 
-The code-source is written in Julia-JuMP language for Jupyter environment. You will find below the version of each library used in this work.
+The code is written in Julia-JuMP language for Jupyter environment. You will find below the version of each library used in this work.
 
 JULIA v1.2.0
 
