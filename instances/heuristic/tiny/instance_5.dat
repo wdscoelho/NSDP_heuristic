@@ -1,6 +1,0 @@
-number_of_requests 2
-
-slice_request 1 id 1 total_amount_of_UE 2429 min_bandwidth 7.9 VNF_types_to_install  "../instances/heuristic/tiny/instance_5_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/tiny/instance_5_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/tiny/instance_5_NFS_sharing_slice1.dat" commodities  "../instances/heuristic/tiny/instance_5_commodities_slice1.dat" maxLatencyDataLayer 4.8 nodeSharing  "../instances/heuristic/tiny/instance_5_node_sharing.dat"
-
-slice_request 2 id 2 total_amount_of_UE 4554 min_bandwidth 5.2 VNF_types_to_install  "../instances/heuristic/tiny/instance_5_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/tiny/instance_5_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/tiny/instance_5_NFS_sharing_slice2.dat" commodities  "../instances/heuristic/tiny/instance_5_commodities_slice2.dat" maxLatencyDataLayer 4.1 nodeSharing  "../instances/heuristic/tiny/instance_5_node_sharing.dat"
-
