@@ -1,0 +1,10 @@
+number_of_requests 4
+
+slice_request 1 id 1 total_amount_of_UE 4934 min_bandwidth 9.6 VNF_types_to_install  "../instances/heuristic/medium_small/instance_7_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/medium_small/instance_7_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/medium_small/instance_7_NFS_sharing_slice1.dat" commodities  "../instances/heuristic/medium_small/instance_7_commodities_slice1.dat" maxLatencyDataLayer 3.7 nodeSharing  "../instances/heuristic/medium_small/instance_7_node_sharing.dat"
+
+slice_request 2 id 2 total_amount_of_UE 2485 min_bandwidth 9.0 VNF_types_to_install  "../instances/heuristic/medium_small/instance_7_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/medium_small/instance_7_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/medium_small/instance_7_NFS_sharing_slice2.dat" commodities  "../instances/heuristic/medium_small/instance_7_commodities_slice2.dat" maxLatencyDataLayer 9.6 nodeSharing  "../instances/heuristic/medium_small/instance_7_node_sharing.dat"
+
+slice_request 3 id 3 total_amount_of_UE 5306 min_bandwidth 10.0 VNF_types_to_install  "../instances/heuristic/medium_small/instance_7_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/medium_small/instance_7_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/medium_small/instance_7_NFS_sharing_slice3.dat" commodities  "../instances/heuristic/medium_small/instance_7_commodities_slice3.dat" maxLatencyDataLayer 7.1 nodeSharing  "../instances/heuristic/medium_small/instance_7_node_sharing.dat"
+
+slice_request 4 id 4 total_amount_of_UE 1166 min_bandwidth 10.0 VNF_types_to_install  "../instances/heuristic/medium_small/instance_7_NFSs_to_install.dat" VNFs_to_connect  "../instances/heuristic/medium_small/instance_7_NFSs_to_connect.dat" VNF_sharing  "../instances/heuristic/medium_small/instance_7_NFS_sharing_slice4.dat" commodities  "../instances/heuristic/medium_small/instance_7_commodities_slice4.dat" maxLatencyDataLayer 8.7 nodeSharing  "../instances/heuristic/medium_small/instance_7_node_sharing.dat"
+

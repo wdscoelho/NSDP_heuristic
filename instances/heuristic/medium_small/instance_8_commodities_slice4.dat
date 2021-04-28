@@ -1,0 +1,5 @@
+number_of_commodities 3
+
+commodity_id 1 origin_node 3 target_node 4 volume_of_data 18.5
+commodity_id 2 origin_node 12 target_node 1 volume_of_data 18.5
+commodity_id 3 origin_node 16 target_node 20 volume_of_data 18.5
