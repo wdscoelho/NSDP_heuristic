@@ -1,1 +1,0 @@
-instance_name;instance_type;objective_function;model;instance_class;number_of_nodes;graph_density;link_capacity;node_capacity;slice_requests;commodities_per_NS;CP_NFSs;DP_NFSs;sharing_NFS;sharing_node;Total_runtime;numb_sol_found;runtime_per_round;final_solution;round_final_solution;time_final_solution;av_solution_cost;final_gap;av_gap
