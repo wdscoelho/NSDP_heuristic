@@ -1,0 +1,10 @@
+number_of_commodities 8
+
+commodity_id 1 origin_node 21 target_node 26 volume_of_data 27.4
+commodity_id 2 origin_node 19 target_node 10 volume_of_data 27.4
+commodity_id 3 origin_node 16 target_node 20 volume_of_data 27.4
+commodity_id 4 origin_node 25 target_node 10 volume_of_data 27.4
+commodity_id 5 origin_node 17 target_node 22 volume_of_data 27.4
+commodity_id 6 origin_node 2 target_node 26 volume_of_data 27.4
+commodity_id 7 origin_node 23 target_node 24 volume_of_data 27.4
+commodity_id 8 origin_node 15 target_node 22 volume_of_data 27.4
