@@ -1,0 +1,238 @@
+number_of_nodes 25
+number_of_arcs 92
+node_capacity_types 4 storage_capacity networking_capacity ram_capacity cpu_capacity
+
+node 13 node_id 13 node_type access longitude 207.2336265884653 latitude 479.96089931573806 coverage_radius 348.54368932038835 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.6 storage_cost 0.01 networking_cost 2 ue_capacity 104 availability 0.999 internal_delay 54 node_cost 135
+
+node 20 node_id 20 node_type access longitude 695.9921798631476 latitude 926.6862170087977 coverage_radius 168.93203883495144 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.4 storage_cost 0.01 networking_cost 2 ue_capacity 106 availability 0.999 internal_delay 54 node_cost 157
+
+node 12 node_id 12 node_type access longitude 866.0801564027371 latitude 261.97458455522974 coverage_radius 776.6990291262135 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.3 storage_cost 0.01 networking_cost 2 ue_capacity 131 availability 0.999 internal_delay 54 node_cost 152
+
+node 9 node_id 9 node_type access longitude 519.0615835777127 latitude 209.18866080156405 coverage_radius 299.02912621359224 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.7 storage_cost 0.01 networking_cost 1 ue_capacity 175 availability 0.999 internal_delay 54 node_cost 130
+
+node 6 node_id 6 node_type access longitude 203.32355816226786 latitude 264.90713587487784 coverage_radius 644.6601941747573 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.1 storage_cost 0.01 networking_cost 2 ue_capacity 126 availability 0.999 internal_delay 54 node_cost 171
+
+node 23 node_id 23 node_type access longitude 754.6432062561096 latitude 700.8797653958945 coverage_radius 701.9417475728155 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.5 storage_cost 0.01 networking_cost 1 ue_capacity 129 availability 0.999 internal_delay 54 node_cost 121
+
+node 15 node_id 15 node_type access longitude 450.63538611925713 latitude 679.3743890518085 coverage_radius 446.6019417475728 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.7 storage_cost 0.01 networking_cost 2 ue_capacity 152 availability 0.999 internal_delay 54 node_cost 119
+
+node 4 node_id 4 node_type access longitude 550.3421309872923 latitude 123.16715542521995 coverage_radius 428.15533980582524 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.6 storage_cost 0.01 networking_cost 1 ue_capacity 176 availability 0.999 internal_delay 54 node_cost 106
+
+node 17 node_id 17 node_type app longitude 887.5855327468231 latitude 209.18866080156405 coverage_radius 549.5145631067961 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 7 node_id 7 node_type app longitude 408.60215053763443 latitude 252.1994134897361 coverage_radius 321.3592233009709 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 11 node_id 11 node_type app longitude 655.9139784946237 latitude 264.90713587487784 coverage_radius 855.3398058252427 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 3 node_id 3 node_type app longitude 755.620723362659 latitude 609.9706744868035 coverage_radius 300.97087378640776 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 18 node_id 18 node_type app longitude 268.81720430107526 latitude 661.7790811339199 coverage_radius 792.2330097087379 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 16 node_id 16 node_type app longitude 83.088954056696 latitude 352.8836754643207 coverage_radius 361.1650485436893 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 21 node_id 21 node_type app longitude 385.1417399804497 latitude 672.5317693059629 coverage_radius 226.2135922330097 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 19 node_id 19 node_type app longitude 439.8826979472141 latitude 221.89638318670578 coverage_radius 292.2330097087379 ram_capacity 0 cpu_capacity 0 storage_capacity  0 networking_capacity  0 ram_cost 0 cpu_cost 0 storage_cost 0 networking_cost 0 bue_capacity 0 availability 0.999 internal_delay 54 node_cost 0
+
+node 1 node_id 1 node_type non_access longitude 23.46041055718475 latitude 962.8543499511243 coverage_radius 172.81553398058253 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.3 storage_cost 0.01 networking_cost 1 ue_capacity 103 availability 0.999 internal_delay 54 node_cost 184
+
+node 2 node_id 2 node_type non_access longitude 531.7693059628544 latitude 391.9843597262952 coverage_radius 437.8640776699029 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.2 storage_cost 0.01 networking_cost 2 ue_capacity 109 availability 0.999 internal_delay 54 node_cost 156
+
+node 5 node_id 5 node_type non_access longitude 542.5219941348975 latitude 786.9012707722386 coverage_radius 500.97087378640776 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.9 storage_cost 0.01 networking_cost 1 ue_capacity 147 availability 0.999 internal_delay 54 node_cost 151
+
+node 8 node_id 8 node_type non_access longitude 383.186705767351 latitude 63.53861192570871 coverage_radius 853.3980582524272 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.5 storage_cost 0.01 networking_cost 2 ue_capacity 163 availability 0.999 internal_delay 54 node_cost 144
+
+node 10 node_id 10 node_type non_access longitude 69.40371456500489 latitude 385.1417399804497 coverage_radius 639.8058252427185 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.2 storage_cost 0.01 networking_cost 1 ue_capacity 172 availability 0.999 internal_delay 54 node_cost 138
+
+node 14 node_id 14 node_type non_access longitude 794.7214076246335 latitude 721.4076246334312 coverage_radius 189.32038834951456 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 2.0 storage_cost 0.01 networking_cost 1 ue_capacity 101 availability 0.999 internal_delay 54 node_cost 131
+
+node 22 node_id 22 node_type non_access longitude 284.45747800586514 latitude 11.730205278592376 coverage_radius 371.84466019417476 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.9 storage_cost 0.01 networking_cost 2 ue_capacity 100 availability 0.999 internal_delay 54 node_cost 145
+
+node 24 node_id 24 node_type non_access longitude 800.5865102639297 latitude 528.8367546432063 coverage_radius 269.90291262135923 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.0 storage_cost 0.01 networking_cost 1 ue_capacity 131 availability 0.999 internal_delay 54 node_cost 107
+
+node 25 node_id 25 node_type non_access longitude 665.6891495601174 latitude 822.0918866080157 coverage_radius 647.5728155339806 ram_capacity 2496.0 cpu_capacity 416.0 storage_capacity  249600.0 networking_capacity  4.0 ram_cost 0.1 cpu_cost 1.0 storage_cost 0.01 networking_cost 2 ue_capacity 199 availability 0.999 internal_delay 54 node_cost 172
+
+arc 1 edge_id 1 source 1 target 5 type fiber delay 0.4 max_bandwidth 231.2 availability 0.999 cost 0.1
+
+arc 2 edge_id 2 source 5 target 1 type fiber delay  0.4  max_bandwidth 231.2 availability 0.999 cost 0.1
+
+arc 3 edge_id 3 source 1 target 14 type fiber delay 0.37 max_bandwidth 239.0 availability 0.999 cost 0.1
+
+arc 4 edge_id 4 source 14 target 1 type fiber delay  0.37  max_bandwidth 239.0 availability 0.999 cost 0.1
+
+arc 5 edge_id 5 source 1 target 18 type fiber delay 0.54 max_bandwidth 165.9 availability 0.999 cost 0.1
+
+arc 6 edge_id 6 source 18 target 1 type fiber delay  0.54  max_bandwidth 165.9 availability 0.999 cost 0.1
+
+arc 7 edge_id 7 source 1 target 20 type fiber delay 0.51 max_bandwidth 233.2 availability 0.999 cost 0.1
+
+arc 8 edge_id 8 source 20 target 1 type fiber delay  0.51  max_bandwidth 233.2 availability 0.999 cost 0.1
+
+arc 9 edge_id 9 source 2 target 4 type fiber delay 0.88 max_bandwidth 200.1 availability 0.999 cost 0.1
+
+arc 10 edge_id 10 source 4 target 2 type fiber delay  0.88  max_bandwidth 200.1 availability 0.999 cost 0.1
+
+arc 11 edge_id 11 source 2 target 8 type fiber delay 0.72 max_bandwidth 140.6 availability 0.999 cost 0.1
+
+arc 12 edge_id 12 source 8 target 2 type fiber delay  0.72  max_bandwidth 140.6 availability 0.999 cost 0.1
+
+arc 13 edge_id 13 source 2 target 22 type fiber delay 0.52 max_bandwidth 123.2 availability 0.999 cost 0.1
+
+arc 14 edge_id 14 source 22 target 2 type fiber delay  0.52  max_bandwidth 123.2 availability 0.999 cost 0.1
+
+arc 15 edge_id 15 source 3 target 7 type fiber delay 0.41 max_bandwidth 133.7 availability 0.999 cost 0.1
+
+arc 16 edge_id 16 source 7 target 3 type fiber delay  0.41  max_bandwidth 133.7 availability 0.999 cost 0.1
+
+arc 17 edge_id 17 source 3 target 14 type fiber delay 0.52 max_bandwidth 236.3 availability 0.999 cost 0.1
+
+arc 18 edge_id 18 source 14 target 3 type fiber delay  0.52  max_bandwidth 236.3 availability 0.999 cost 0.1
+
+arc 19 edge_id 19 source 3 target 17 type fiber delay 0.82 max_bandwidth 149.9 availability 0.999 cost 0.1
+
+arc 20 edge_id 20 source 17 target 3 type fiber delay  0.82  max_bandwidth 149.9 availability 0.999 cost 0.1
+
+arc 21 edge_id 21 source 3 target 23 type fiber delay 0.72 max_bandwidth 202.9 availability 0.999 cost 0.1
+
+arc 22 edge_id 22 source 23 target 3 type fiber delay  0.72  max_bandwidth 202.9 availability 0.999 cost 0.1
+
+arc 23 edge_id 23 source 4 target 5 type fiber delay 0.52 max_bandwidth 239.0 availability 0.999 cost 0.1
+
+arc 24 edge_id 24 source 5 target 4 type fiber delay  0.52  max_bandwidth 239.0 availability 0.999 cost 0.1
+
+arc 25 edge_id 25 source 4 target 18 type fiber delay 0.37 max_bandwidth 172.4 availability 0.999 cost 0.1
+
+arc 26 edge_id 26 source 18 target 4 type fiber delay  0.37  max_bandwidth 172.4 availability 0.999 cost 0.1
+
+arc 27 edge_id 27 source 5 target 17 type fiber delay 0.25 max_bandwidth 134.4 availability 0.999 cost 0.1
+
+arc 28 edge_id 28 source 17 target 5 type fiber delay  0.25  max_bandwidth 134.4 availability 0.999 cost 0.1
+
+arc 29 edge_id 29 source 5 target 22 type fiber delay 0.73 max_bandwidth 128.8 availability 0.999 cost 0.1
+
+arc 30 edge_id 30 source 22 target 5 type fiber delay  0.73  max_bandwidth 128.8 availability 0.999 cost 0.1
+
+arc 31 edge_id 31 source 5 target 23 type fiber delay 0.39 max_bandwidth 193.4 availability 0.999 cost 0.1
+
+arc 32 edge_id 32 source 23 target 5 type fiber delay  0.39  max_bandwidth 193.4 availability 0.999 cost 0.1
+
+arc 33 edge_id 33 source 6 target 13 type fiber delay 0.78 max_bandwidth 194.1 availability 0.999 cost 0.1
+
+arc 34 edge_id 34 source 13 target 6 type fiber delay  0.78  max_bandwidth 194.1 availability 0.999 cost 0.1
+
+arc 35 edge_id 35 source 7 target 14 type fiber delay 0.68 max_bandwidth 227.2 availability 0.999 cost 0.1
+
+arc 36 edge_id 36 source 14 target 7 type fiber delay  0.68  max_bandwidth 227.2 availability 0.999 cost 0.1
+
+arc 37 edge_id 37 source 8 target 24 type fiber delay 1.0 max_bandwidth 214.2 availability 0.999 cost 0.1
+
+arc 38 edge_id 38 source 24 target 8 type fiber delay  1.0  max_bandwidth 214.2 availability 0.999 cost 0.1
+
+arc 39 edge_id 39 source 9 target 14 type fiber delay 0.82 max_bandwidth 146.0 availability 0.999 cost 0.1
+
+arc 40 edge_id 40 source 14 target 9 type fiber delay  0.82  max_bandwidth 146.0 availability 0.999 cost 0.1
+
+arc 41 edge_id 41 source 9 target 15 type fiber delay 0.28 max_bandwidth 225.3 availability 0.999 cost 0.1
+
+arc 42 edge_id 42 source 15 target 9 type fiber delay  0.28  max_bandwidth 225.3 availability 0.999 cost 0.1
+
+arc 43 edge_id 43 source 10 target 20 type fiber delay 0.62 max_bandwidth 199.8 availability 0.999 cost 0.1
+
+arc 44 edge_id 44 source 20 target 10 type fiber delay  0.62  max_bandwidth 199.8 availability 0.999 cost 0.1
+
+arc 45 edge_id 45 source 11 target 14 type fiber delay 0.25 max_bandwidth 137.6 availability 0.999 cost 0.1
+
+arc 46 edge_id 46 source 14 target 11 type fiber delay  0.25  max_bandwidth 137.6 availability 0.999 cost 0.1
+
+arc 47 edge_id 47 source 11 target 15 type fiber delay 0.38 max_bandwidth 166.6 availability 0.999 cost 0.1
+
+arc 48 edge_id 48 source 15 target 11 type fiber delay  0.38  max_bandwidth 166.6 availability 0.999 cost 0.1
+
+arc 49 edge_id 49 source 11 target 16 type fiber delay 0.31 max_bandwidth 223.8 availability 0.999 cost 0.1
+
+arc 50 edge_id 50 source 16 target 11 type fiber delay  0.31  max_bandwidth 223.8 availability 0.999 cost 0.1
+
+arc 51 edge_id 51 source 11 target 20 type fiber delay 0.63 max_bandwidth 142.0 availability 0.999 cost 0.1
+
+arc 52 edge_id 52 source 20 target 11 type fiber delay  0.63  max_bandwidth 142.0 availability 0.999 cost 0.1
+
+arc 53 edge_id 53 source 12 target 23 type fiber delay 0.63 max_bandwidth 123.2 availability 0.999 cost 0.1
+
+arc 54 edge_id 54 source 23 target 12 type fiber delay  0.63  max_bandwidth 123.2 availability 0.999 cost 0.1
+
+arc 55 edge_id 55 source 12 target 24 type fiber delay 0.26 max_bandwidth 213.0 availability 0.999 cost 0.1
+
+arc 56 edge_id 56 source 24 target 12 type fiber delay  0.26  max_bandwidth 213.0 availability 0.999 cost 0.1
+
+arc 57 edge_id 57 source 12 target 25 type fiber delay 0.73 max_bandwidth 189.4 availability 0.999 cost 0.1
+
+arc 58 edge_id 58 source 25 target 12 type fiber delay  0.73  max_bandwidth 189.4 availability 0.999 cost 0.1
+
+arc 59 edge_id 59 source 13 target 17 type fiber delay 0.73 max_bandwidth 206.1 availability 0.999 cost 0.1
+
+arc 60 edge_id 60 source 17 target 13 type fiber delay  0.73  max_bandwidth 206.1 availability 0.999 cost 0.1
+
+arc 61 edge_id 61 source 13 target 21 type fiber delay 0.39 max_bandwidth 233.1 availability 0.999 cost 0.1
+
+arc 62 edge_id 62 source 21 target 13 type fiber delay  0.39  max_bandwidth 233.1 availability 0.999 cost 0.1
+
+arc 63 edge_id 63 source 14 target 22 type fiber delay 0.66 max_bandwidth 194.0 availability 0.999 cost 0.1
+
+arc 64 edge_id 64 source 22 target 14 type fiber delay  0.66  max_bandwidth 194.0 availability 0.999 cost 0.1
+
+arc 65 edge_id 65 source 15 target 17 type fiber delay 0.57 max_bandwidth 207.0 availability 0.999 cost 0.1
+
+arc 66 edge_id 66 source 17 target 15 type fiber delay  0.57  max_bandwidth 207.0 availability 0.999 cost 0.1
+
+arc 67 edge_id 67 source 15 target 21 type fiber delay 0.61 max_bandwidth 222.3 availability 0.999 cost 0.1
+
+arc 68 edge_id 68 source 21 target 15 type fiber delay  0.61  max_bandwidth 222.3 availability 0.999 cost 0.1
+
+arc 69 edge_id 69 source 16 target 19 type fiber delay 0.74 max_bandwidth 211.9 availability 0.999 cost 0.1
+
+arc 70 edge_id 70 source 19 target 16 type fiber delay  0.74  max_bandwidth 211.9 availability 0.999 cost 0.1
+
+arc 71 edge_id 71 source 16 target 25 type fiber delay 0.86 max_bandwidth 146.7 availability 0.999 cost 0.1
+
+arc 72 edge_id 72 source 25 target 16 type fiber delay  0.86  max_bandwidth 146.7 availability 0.999 cost 0.1
+
+arc 73 edge_id 73 source 17 target 20 type fiber delay 0.54 max_bandwidth 126.5 availability 0.999 cost 0.1
+
+arc 74 edge_id 74 source 20 target 17 type fiber delay  0.54  max_bandwidth 126.5 availability 0.999 cost 0.1
+
+arc 75 edge_id 75 source 17 target 21 type fiber delay 0.69 max_bandwidth 164.8 availability 0.999 cost 0.1
+
+arc 76 edge_id 76 source 21 target 17 type fiber delay  0.69  max_bandwidth 164.8 availability 0.999 cost 0.1
+
+arc 77 edge_id 77 source 18 target 21 type fiber delay 0.73 max_bandwidth 126.5 availability 0.999 cost 0.1
+
+arc 78 edge_id 78 source 21 target 18 type fiber delay  0.73  max_bandwidth 126.5 availability 0.999 cost 0.1
+
+arc 79 edge_id 79 source 18 target 24 type fiber delay 0.26 max_bandwidth 215.6 availability 0.999 cost 0.1
+
+arc 80 edge_id 80 source 24 target 18 type fiber delay  0.26  max_bandwidth 215.6 availability 0.999 cost 0.1
+
+arc 81 edge_id 81 source 19 target 23 type fiber delay 0.51 max_bandwidth 160.9 availability 0.999 cost 0.1
+
+arc 82 edge_id 82 source 23 target 19 type fiber delay  0.51  max_bandwidth 160.9 availability 0.999 cost 0.1
+
+arc 83 edge_id 83 source 21 target 23 type fiber delay 0.88 max_bandwidth 215.6 availability 0.999 cost 0.1
+
+arc 84 edge_id 84 source 23 target 21 type fiber delay  0.88  max_bandwidth 215.6 availability 0.999 cost 0.1
+
+arc 85 edge_id 85 source 21 target 25 type fiber delay 0.45 max_bandwidth 183.2 availability 0.999 cost 0.1
+
+arc 86 edge_id 86 source 25 target 21 type fiber delay  0.45  max_bandwidth 183.2 availability 0.999 cost 0.1
+
+arc 87 edge_id 87 source 23 target 24 type fiber delay 0.39 max_bandwidth 176.2 availability 0.999 cost 0.1
+
+arc 88 edge_id 88 source 24 target 23 type fiber delay  0.39  max_bandwidth 176.2 availability 0.999 cost 0.1
+
+arc 89 edge_id 89 source 23 target 25 type fiber delay 0.64 max_bandwidth 211.4 availability 0.999 cost 0.1
+
+arc 90 edge_id 90 source 25 target 23 type fiber delay  0.64  max_bandwidth 211.4 availability 0.999 cost 0.1
+
+arc 91 edge_id 91 source 24 target 25 type fiber delay 0.81 max_bandwidth 203.5 availability 0.999 cost 0.1
+
+arc 92 edge_id 92 source 25 target 24 type fiber delay  0.81  max_bandwidth 203.5 availability 0.999 cost 0.1
+
