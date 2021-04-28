@@ -1,0 +1,15 @@
+number_of_VNFs 10
+number_of_DP_NFs 6
+number_of_CP_NFs 4
+
+NFS 1 id 1 type dp treatment_capacity 20.392 dataVolPerUE 0.001 cpu_request 2.0 ram_request 9.0  storage_request 1184.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+NFS 2 id 2 type dp treatment_capacity 26.503 dataVolPerUE 0.001 cpu_request 2.0 ram_request 11.0  storage_request 917.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+NFS 3 id 3 type dp treatment_capacity 21.638 dataVolPerUE 0.001 cpu_request 2.0 ram_request 8.0  storage_request 855.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+NFS 4 id 4 type dp treatment_capacity 25.587 dataVolPerUE 0.001 cpu_request 1.0 ram_request 10.0  storage_request 871.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+NFS 5 id 5 type dp treatment_capacity 24.697 dataVolPerUE 0.001 cpu_request 1.0 ram_request 9.0  storage_request 910.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+NFS 6 id 6 type dp treatment_capacity 24.078 dataVolPerUE 0.001 cpu_request 1.0 ram_request 8.0  storage_request 1023.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 0.001 
+
+NFS 7 id 7 type cp treatment_capacity 3.1 dataVolPerUE 0.001 cpu_request 1.0 ram_request 9.0  storage_request 974.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 
+NFS 8 id 8 type cp treatment_capacity 3.351 dataVolPerUE 0.001 cpu_request 1.0 ram_request 11.0  storage_request 1184.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 
+NFS 9 id 9 type cp treatment_capacity 4.694 dataVolPerUE 0.001 cpu_request 2.0 ram_request 10.0  storage_request 1055.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 
+NFS 10 id 10 type cp treatment_capacity 3.139 dataVolPerUE 0.001 cpu_request 1.0 ram_request 11.0  storage_request 1008.0  compression 1.0 UE_dependency 1 amount_of_traffic_sent_to_g 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 0.000001 
